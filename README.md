@@ -17,6 +17,9 @@ I'm a bioinformatics scientist at [SelfDecode](https://selfdecode.com) in Los An
 
 [**Selphi 2**](https://github.com/omicsedge/selphi2) is a phasing and imputation engine written in Rust. It takes arrays, WGS and low-coverage BAM/CRAM, imputes against a reference panel, and builds for x86 and arm64.
 
+New to it? The [Selphi 2 tutorial](https://github.com/adrianodemarino/Imputation_selphi2_tutorial) runs it step by
+step on public 1000 Genomes data, from a chip or 1x reads, with Beagle side by side.
+
 ### Tools I use every day
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
